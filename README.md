@@ -18,7 +18,7 @@ Je crée des sites modernes, rapides et personnalisés, ainsi que des visuels gr
 	•	Travailler avec des clients internationaux
 	•	Proposer des projets simples, efficaces et professionnels
 
-⸻
+
 
 📂 Projets
 	•	Portfolio en ligne : credoilhan.github.io
